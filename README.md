@@ -37,17 +37,17 @@ ___
 ___
 ### [`MY SELF`](https://instagram.com/AlyaaXzy_/)
 ```
-"Name": "AlyaaXzy",
+"Name": "DayatBot",
 "Status": "Pelajar",
 "Address": "Mangaran, Situbondo, Jawa timur",
 "Age": "16 Years Old",
-"Birthday": "February - 10, 2006"
+"Birthday": "Mei - 05, 2006"
    
 "Big Thanks To"
 
   "- Tuhanku"
   "- Keluargaku"
-  "- AlyaaXzy Team"
+  "- DayatBot Team"
   "- RadhinMods"
   "- And My Friends"
 ```
@@ -56,8 +56,8 @@ ___
 
 # CONTACT
 
-* [ `AlyaaXzy `](https://wa.me/6289505165400) 
-* [ `Bot WhatsApp `](https://wa.me/6285730903853) 
+* [ `DayatBot `](https://wa.me/6285161697087) 
+* [ `Bot WhatsApp `](https://wa.me/6285161697087) 
 
 ___
 # DONASI
